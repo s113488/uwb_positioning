@@ -5,3 +5,5 @@ Toa_test_sort.csv
 *.h5
 *.png
 *.pdf
+*.csv
+cdf.ipynb
